@@ -3,7 +3,7 @@
 - 🌱 最近的学习状态： Vue and typeScript.
 - 📫 邮箱: 
         - mazhongkaics@gmail.com 
-        - 1012812085@qq.com
+        /   1012812085@qq.com
 
 <!---
 MaZhongKaiCS/MaZhongKaiCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
