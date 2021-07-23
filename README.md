@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaZhongKaiCS 
-- 🌱 最近的学习状态： Vue and typeScript.
+- 🌱 最近的学习状态： Vue3.0 and typeScript.
 - 📫 邮箱:  mazhongkaics@gmail.com  /  1012812085@qq.com
 
 <!---
